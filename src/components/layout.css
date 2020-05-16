@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato|Poppins");
+@import url("https://fonts.googleapis.com/css?family=Lato|Poppins|Gothic+A1:wght@700&display=swap");
 
 :root {
   --primaryColor: #3fd0d4;
@@ -83,3 +83,9 @@ main {
   display: flex;
   flex-direction: column;
 }
+
+blockquote {
+  font-family: 'Gothic A1', sans-serif;
+  font-weight: bold;
+}
+
